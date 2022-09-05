@@ -4,8 +4,6 @@
 </p>
 
 <div align="center">
-<ul style="list-style-type: none;">
-  <li>👀 I’m interested in Web Development</li>
-  <li>🌱 I’m currently learning Vue and Laravel</li>
-<ul>
+  <a>👀 I’m interested in Web Development<</a>
+  <a>🌱 I’m currently learning Vue and Laravel</a>
 </div>
