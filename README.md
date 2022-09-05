@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kronus8
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Vue and Laravel
