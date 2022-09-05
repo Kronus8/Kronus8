@@ -15,7 +15,7 @@
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/C#%20-%23430098.svg?logo=c#&logoColor=black">
+     <img alt="C#" src="https://img.shields.io/badge/C#%20-%23430098.svg">
    </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
