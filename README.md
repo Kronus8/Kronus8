@@ -14,7 +14,7 @@
 
 ### 👉 Programming languages
 
-<p align="left">
+<p align="center">
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="C#" src="https://img.shields.io/badge/CSharp%20-%e749a0.svg?logo=csharp&logoColor=black">
@@ -30,7 +30,7 @@
 </p>
 
 ### 👉 Frontend Development
-<p align="left"> 
+<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
