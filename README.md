@@ -4,6 +4,8 @@
 </p>
 
 <div align="center">
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue and Laravel
+<ul>
+  <li>👀 I’m interested in Web Development</li>
+  <li>🌱 I’m currently learning Vue and Laravel</li>
+<ul>
 </div>
