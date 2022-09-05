@@ -10,6 +10,8 @@
   <a>🌱 I’m currently learning Vue and Laravel</a>
 </div>
 
+<div align="center">
+
 ### 👉 Programming languages
 
 <p align="left">
@@ -42,3 +44,5 @@
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%232370ED.svg?style=flat&logo=tailwindcss&logoColor=white"/>
   </a>
 </p>
+
+</div>
