@@ -35,6 +35,6 @@
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?style=flat&logo=tailwindcss&logoColor=white"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%3895D3.svg?style=flat&logo=tailwindcss&logoColor=white"/>
   </a>
 </p>
