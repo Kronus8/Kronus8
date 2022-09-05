@@ -12,7 +12,11 @@
 
 ### 👉 Programming languages
 
-<p align="left"> 
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="C#" src="https://img.shields.io/badge/C#%20-%23430098.svg?logo=csharp&logoColor=black">
+   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -34,7 +38,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
+  <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%232370ED.svg?style=flat&logo=tailwindcss&logoColor=white"/>
   </a>
 </p>
