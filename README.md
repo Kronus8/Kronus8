@@ -4,6 +4,9 @@
 </p>
 
 <div align="center">
-  <a>👀 I’m interested in Web Development<</a>
+  <a>👀 I’m interested in Web Development</a>
+  <a>🌱 I’m currently learning Vue and Laravel</a>
+</div>
+<div align="center">
   <a>🌱 I’m currently learning Vue and Laravel</a>
 </div>
